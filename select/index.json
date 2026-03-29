@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "偽愛とハイボール",
+  "base_artist": "LET ME KNOW",
+  "createdAt": "2026-03-29T10:21:47.364310Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "偽愛とハイボール",
+      "artist": "LET ME KNOW",
+      "has_synced": false,
+      "path": "select/pl_01_偽愛とハイボール_LET_ME_KNOW.txt"
+    }
+  ]
+}
